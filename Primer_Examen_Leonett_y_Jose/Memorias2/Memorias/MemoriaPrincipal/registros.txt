@@ -1,0 +1,1 @@
+Este es el archivo Registro.txt creado en el punto 1 que deberia sobreescribir al otro
